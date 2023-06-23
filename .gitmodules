@@ -1,0 +1,12 @@
+[submodule "miniz"]
+	path = miniz
+	url = https://github.com/xpodev/miniz
+[submodule "zs2miniz"]
+	path = zs2miniz
+	url = https://github.com/xpodev/zs2miniz
+[submodule "miniz2il"]
+	path = miniz2il
+	url = https://github.com/xpodev/miniz2il
+[submodule "zdmp"]
+	path = zdmp
+	url = https://github.com/xpodev/zdmp
