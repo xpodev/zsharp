@@ -10,3 +10,7 @@
 [submodule "zdmp"]
 	path = zdmp
 	url = https://github.com/xpodev/zdmp
+[submodule "utilz"]
+	path = utilz
+	url = https://github.com/xpodev/utilz
+	branch = main
